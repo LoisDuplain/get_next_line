@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  Read content line by line on a fd (FILE DESCRIPTOR). It can be use to read a file or STDIN.
+  Read content line by line on a fd (FILE DESCRIPTOR). It can be used to read a file or STDIN.
   <br>
   Created by Loïs Duplain. (42login: lduplain, 42mail: lduplain@student.42lyon.fr)
 </p>
